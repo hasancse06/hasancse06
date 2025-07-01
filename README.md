@@ -1,4 +1,4 @@
-# 👋 Hi, I’m M A Hasan
+# 👋 Hi, I’m Engineer M A Hasan
 
 I’m a **Freelance Web & Hybrid Mobile App Developer** based in Dhaka, Bangladesh, with 8+ years of experience building across **WordPress, WooCommerce, Ionic + Angular** — and a track record of successfully delivering 300+ projects and supporting 150+ clients worldwide.
 
