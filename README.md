@@ -37,7 +37,7 @@ I’m a **Freelance Web & Hybrid Mobile App Developer** based in Dhaka, Banglade
 
 ## 🔭 Looking For
 
-- Collaborations on **hybrid eCommerce apps** **WordPress API Extension** **WooCommerce API Extension and Override** **QR Code Base Login and Ticket Checking** **RFID Based Cashless Wallet**
+- Collaborations on **hybrid eCommerce apps** , **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking** , **RFID Based Cashless Wallet**
 - Remote open-source or freelance opportunities
 - Feedback on plugin development & mobile-ready WooCommerce, Tickera, Wallet, Dokan Pro Plugins
 
@@ -56,8 +56,8 @@ I’m a **Freelance Web & Hybrid Mobile App Developer** based in Dhaka, Banglade
 
 ## ⭐ Fun Facts
 
-- Implemented custom **JWT login** **WordPress API Extension** **WooCommerce API Extension and Override** **QR Code Base Login and Ticket Checking** **RFID Based Cashless Wallet**
-- Passionate about building developer-first tools for WordPress and Woocommerce
+- Implemented custom **JWT login** , **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking** , **RFID Based Cashless Wallet**
+- Passionate about building developer-first tools for WordPress and WooCommerce
 - Love music, movies & mentoring fellow coders
 
 ---
