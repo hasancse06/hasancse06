@@ -45,21 +45,20 @@ I’m a **Freelance Web & Hybrid Mobile App Developer** based in Dhaka, Banglade
 
 ## 🧠 SEO Keywords
 
-> woocommerce ionic angular mobile app
-> ionic angular wordpress woocommerce authentication  
-> headless woocommerce mobile app  
-> hybrid ecommerce app ionic angular  
-> RFID and QR code based cashless wallet   
 
+---
+
+## 🌱 Exclusive Developments
+
+- **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking System** , **RFID Based Cashless Wallet**
 
 ---
 
 ## ⭐ Fun Facts
 
-- Implemented custom **JWT login** , **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking** , **RFID Based Cashless Wallet**
 - Passionate about building developer-first tools for WordPress and WooCommerce
-- Love music, movies & mentoring fellow coders
+- Love driving, music, movies & mentoring fellow coders
 
 ---
 
-**Let’s build awesome mobile-first WooCommerce apps together! 🚀**
+**Let’s build awesome mobile-first apps together! 🚀**
