@@ -1,54 +1,85 @@
-# 👋 Hi, I’m Engineer M A Hasan
+# 👋 Hi, I'm Engineer M A Hasan — Full-Stack Web, WordPress, and Hybrid Mobile App Developer
 
-I’m a **Freelance Web & Hybrid Mobile App Developer** based in Dhaka, Bangladesh, with 8+ years of experience building across **WordPress, WooCommerce, Ionic + Angular** — and a track record of successfully delivering 300+ projects and supporting 150+ clients worldwide.
-
-- 🔧 **Technologies:** PHP, MySQL, HTML/CSS/JS, WordPress (Themes + Plugins), WooCommerce, Ionic Framework (Angular), REST APIs, JWT Auth  
-- 📱 **Mobile Apps:** Built 20+ hybrid apps (iOS & Android) using Ionic & Capacitor  
-- 🧰 **Author & Instructor:**  
-  - Author on **ThemeForest** (Envato) — [hasanonline](https://themeforest.net/user/hasanonline)  
-  - Instructor on **Udemy** — [View my profile](https://www.udemy.com/user/m-a-hasan-2/)
+Welcome to my GitHub profile! I’m a senior developer with 8+ years of experience building production-grade applications across the **web**, **WordPress/WooCommerce**, and **mobile** ecosystems.
 
 ---
 
-## 🌱 What I’m Working On
+## 🔧 Tech Stack & Specializations
 
-- Managing a leading Woocommerce shop developed in Ionic Angular
-- Collaborating among team members
-- Extending WordPress REST API to fulfill company demands
-- Pushing updates regularly, which are security-focused, scalable, and modular
+### 💻 Full-Stack Web Development (Angular, Node.js, REST APIs)
 
----
+- 🧠 Angular (v2+), AngularJS, TypeScript, RxJS
+- 🚀 Node.js, Express.js, REST API development
+- 🗂️ MongoDB, MySQL
+- 📦 JWT Authentication, Role-based access
+- ⚙️ CI/CD pipelines, Git workflows, Webpack
+- 🌐 Progressive Web Apps (PWA) and SPAs
+- ☁️ Deployment to AWS, Vercel, DigitalOcean, cPanel
 
-## 📚 Education & Roles
-
-- 🎓 B.Sc in Computer Science & Engineering (RUET, 06 batch)
-- 💼 **CTO at JRC Investments Ltd (EventPro KY)**
-- 🧑‍🏫 Freelance instructor at Udemy — teaching real-world WordPress/Ionic apps
-
----
-
-## 💬 Let’s Connect
-
-- 🌐 [Website & Blog](https://hasan.online)
-- 🎓 [Udemy Profile](https://www.udemy.com/user/m-a-hasan-2/)
-- 🛍️ [ThemeForest Author Page](https://themeforest.net/user/hasanonline)
+I specialize in building scalable, performant web applications and designing secure REST APIs from scratch or integrating third-party services like Stripe, Firebase, Google Maps, and more.
 
 ---
 
-## 🔭 Looking For
+### 🛒 WordPress & WooCommerce Development
 
-- Collaborations on **hybrid eCommerce apps** , **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking** , **RFID Based Cashless Wallet**
-- Remote open-source or freelance opportunities
-- Feedback on plugin development & mobile-ready WooCommerce, Tickera, Wallet, Dokan Pro Plugins
+- ⚙️ Custom WordPress Plugins & Theme Development
+- 🛍️ Advanced WooCommerce Customization
+- 🔌 WooCommerce Payment Gateway Development
+- 🔗 REST API Integration & Extension
+- 📈 Speed Optimization, Security Hardening, SEO
+- 💳 Integration of major payment APIs
+- 🧩 Plugin extension for headless WordPress or mobile apps
+
+I’ve worked on everything from small business websites to large-scale WooCommerce platforms — including full backend customization, performance tuning, and complex plugin workflows.
 
 ---
 
-## 🧠 SEO Keywords
+### 📱 Hybrid Mobile App Development (Ionic, Angular, Capacitor)
 
+- 📲 Cross-platform app development using **Ionic Framework**
+- ⚛️ UI/UX with Angular + Ionic Components
+- 🔌 Native features via Capacitor/Cordova (Camera, Push Notifications, GPS)
+- 🔗 REST API Integration (WooCommerce, Node.js, Firebase)
+- 🏪 App Store & Play Store Publishing
+- 🧾 Custom mobile eCommerce & ticketing platforms
+
+20+ apps built with **Ionic + Angular** are live today — powering real businesses in eCommerce, event booking, and services. My focus is clean UI, fast performance, and reliable deployment to both **iOS and Android**.
 
 ---
 
-## 🌱 Exclusive Developments
+## 🌍 About Me
+
+- 🔭 I’m currently working on Ionic-Angular eCommerce app templates
+- 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
+- 🧠 Creator of themes/plugins at [Envato](https://themeforest.net/user/hasanonline)
+- ✍️ Blogger at [blog.hasan.online](https://blog.hasan.online)
+- 🌐 Portfolio: [hasan.online](https://hasan.online)
+
+---
+
+## 📈 Let's Connect
+
+If you're looking for:
+- A **full-stack developer** who can build your web app from scratch
+- A **WooCommerce expert** to take your WordPress site to the next level
+- A **mobile app developer** to build and publish your cross-platform Ionic app
+
+Let's connect! I'm open to **freelance, contract, or collaboration** opportunities.
+
+**📫 Reach out:**  
+🌐 [hasan.online](https://hasan.online)  
+📬 [Upwork Profile](https://www.upwork.com/freelancers/~01ce40b53f68299043)
+
+---
+
+## 📌 Featured Skills & Tools
+
+`Angular` · `Node.js` · `TypeScript` · `Express.js` · `Ionic` · `Capacitor` · `Cordova` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
+
+---
+
+Thanks for stopping by! ⭐  
+Feel free to explore my repos and drop a ⭐ if you find something useful.
 
 - **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking System** , **RFID Based Cashless Wallet**
 
