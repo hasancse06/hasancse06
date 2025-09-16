@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I’m a senior developer with 8+ years of experien
 ### Full-Stack Web Development (Angular, Node.js, REST APIs)
 
 - 🧠 Angular (v2+), AngularJS, TypeScript, RxJS
-- 🚀 Node.js, Express.js, REST API development
-- 🗂️ MongoDB, MySQL
+- 🚀 Node.js, REST API development
+- 🗂️ MySQL
 - 📦 JWT Authentication, Role-based access
 - ⚙️ CI/CD pipelines, Git workflows, Webpack
 - 🌐 Progressive Web Apps (PWA) and SPAs
