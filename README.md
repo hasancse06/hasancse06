@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Engineer M A Hasan — Full-Stack Web, WordPress, and Hybrid Mobile App Developer
+# Hi, I'm Engineer M A Hasan — Full-Stack Web, WordPress, and Hybrid Mobile App Developer
 
 Welcome to my GitHub profile! I’m a senior developer with 8+ years of experience building production-grade applications across the **web**, **WordPress/WooCommerce**, and **mobile** ecosystems.
 
 ---
 
-## 🔧 Tech Stack & Specializations
+## Tech Stack & Specializations
 
-### 💻 Full-Stack Web Development (Angular, Node.js, REST APIs)
+### Full-Stack Web Development (Angular, Node.js, REST APIs)
 
 - 🧠 Angular (v2+), AngularJS, TypeScript, RxJS
 - 🚀 Node.js, Express.js, REST API development
@@ -20,7 +20,7 @@ I specialize in building scalable, performant web applications and designing sec
 
 ---
 
-### 🛒 WordPress & WooCommerce Development
+### WordPress & WooCommerce Development
 
 - ⚙️ Custom WordPress Plugins & Theme Development
 - 🛍️ Advanced WooCommerce Customization
@@ -34,7 +34,7 @@ I’ve worked on everything from small business websites to large-scale WooComme
 
 ---
 
-### 📱 Hybrid Mobile App Development (Ionic, Angular, Capacitor)
+### Hybrid Mobile App Development (Ionic, Angular, Capacitor)
 
 - 📲 Cross-platform app development using **Ionic Framework**
 - ⚛️ UI/UX with Angular + Ionic Components
@@ -47,9 +47,9 @@ I’ve worked on everything from small business websites to large-scale WooComme
 
 ---
 
-## 🌍 About Me
+## About Me
 
-- 🔭 I’m currently working on Ionic-Angular eCommerce app templates
+- 🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
 - 🧠 Creator of themes/plugins at [Envato](https://themeforest.net/user/hasanonline)
 - ✍️ Blogger at [blog.hasan.online](https://blog.hasan.online)
@@ -57,7 +57,7 @@ I’ve worked on everything from small business websites to large-scale WooComme
 
 ---
 
-## 📈 Let's Connect
+## Let's Connect
 
 If you're looking for:
 - A **full-stack developer** who can build your web app from scratch
@@ -66,15 +66,15 @@ If you're looking for:
 
 Let's connect! I'm open to **freelance, contract, or collaboration** opportunities.
 
-**📫 Reach out:**  
+** Reach out:**  
 🌐 [hasan.online](https://hasan.online)  
 📬 [Upwork Profile](https://www.upwork.com/freelancers/~01ce40b53f68299043)
 
 ---
 
-## 📌 Featured Skills & Tools
+## Featured Skills & Tools
 
-`Angular` · `Node.js` · `TypeScript` · `Express.js` · `Ionic` · `Capacitor` · `Cordova` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
+`Angular` · `Node.js` · `TypeScript` · `Ionic` · `Capacitor` · `Cordova` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
 
 ---
 
@@ -85,11 +85,11 @@ Feel free to explore my repos and drop a ⭐ if you find something useful.
 
 ---
 
-## ⭐ Fun Facts
+## Fun Facts
 
-- Passionate about building developer-first tools for WordPress and WooCommerce
+- Passionate about building developer-first tools for WordPress and WooCommerce, Ionic Framework, Angular
 - Love driving, music, movies & mentoring fellow coders
 
 ---
 
-**Let’s build awesome mobile-first apps together! 🚀**
+** Let’s build awesome mobile-first apps together! **
