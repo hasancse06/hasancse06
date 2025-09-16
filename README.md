@@ -1,4 +1,4 @@
-# Hi, I'm Engineer M A Hasan — Full-Stack Web, WordPress, and Hybrid Mobile App Developer
+# Hi, I'm M A Hasan — Full-Stack Web, WordPress, and Hybrid Mobile App Developer
 
 Welcome to my GitHub profile! I’m a senior developer with 8+ years of experience building production-grade applications across the **web**, **WordPress/WooCommerce**, and **mobile** ecosystems.
 
