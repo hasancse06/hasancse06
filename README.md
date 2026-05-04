@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a senior developer with 8+ years of experien
 
 ## Tech Stack & Specializations
 
-### Full-Stack Web Development (Laravel, WordPress WooCommerce, Angular, REST APIs)
+### Full-Stack Web Development (Laravel, WordPress WooCommerce, Ionic Framework with Angular, REST APIs)
 
 - 🧠 Laravel 4+
 - 🧠 WordPress & WooCommerce
