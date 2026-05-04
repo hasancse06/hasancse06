@@ -103,22 +103,19 @@ Let's connect! I'm open to **freelance, contract, or collaboration** opportuniti
 
 ## Featured Skills & Tools
 
-`Angular` · `Node.js` · `TypeScript` · `Ionic` · `Capacitor` · `Cordova` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
+`Laravel` .`Angular` · `TypeScript` · `Ionic` · `Capacitor` · `Cordova` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
 
 ---
 
 Thanks for stopping by! ⭐  
 Feel free to explore my repos and drop a ⭐ if you find something useful.
 
-- **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking System** , **RFID Based Cashless Wallet**
+- **Laravel Architecture**  **Laravel Backend** **Laravel API** **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Login and Ticket Checking System** , **RFID Based Cashless Wallet**
 
 ---
 
 ## Fun Facts
 
-- Passionate about building developer-first tools for WordPress and WooCommerce, Ionic Framework, Angular
+- Passionate about building developer-first tools for Laravel WordPress and WooCommerce, Ionic Framework, Angular
 - Love driving, music, movies & mentoring fellow coders
 
----
-
-** Let’s build awesome mobile-first apps together! **
