@@ -1,4 +1,4 @@
-# Hi, I'm Engineer M A Hasan — Full-Stack Web, WordPress, and Hybrid Mobile App Developer
+# Hi, I'm Engineer M A Hasan — Full-Stack Web, (Laravel, WordPress, WooCommerce) and Hybrid Mobile App Developer
 
 Welcome to my GitHub profile! I’m a senior developer with 8+ years of experience building production-grade applications across the **web**, **WordPress/WooCommerce**, and **mobile** ecosystems.
 
@@ -6,10 +6,12 @@ Welcome to my GitHub profile! I’m a senior developer with 8+ years of experien
 
 ## Tech Stack & Specializations
 
-### Full-Stack Web Development (Angular, Node.js, REST APIs)
+### Full-Stack Web Development (Laravel, WordPress WooCommerce, Angular, REST APIs)
 
+- 🧠 Laravel 12+
+- 🧠 WordPress & WooCommerce
 - 🧠 Angular (v2+), AngularJS, TypeScript, RxJS
-- 🚀 Node.js, REST API development
+- 🚀 Custom REST API development
 - 🗂️ MySQL
 - 📦 JWT Authentication, Role-based access
 - ⚙️ CI/CD pipelines, Git workflows, Webpack
@@ -19,6 +21,33 @@ Welcome to my GitHub profile! I’m a senior developer with 8+ years of experien
 I specialize in building scalable, performant web applications and designing secure REST APIs from scratch or integrating third-party services like Stripe, Firebase, Google Maps, and more.
 
 ---
+
+
+### Laravel Development
+
+I build production-ready Laravel applications with clean architecture, scalable backend logic, secure APIs, and practical business workflows. My Laravel experience includes building SaaS platforms, admin dashboards, REST APIs, multi-tenant systems, WooCommerce integrations, job board platforms, billing logic, AI-assisted workflows, and queue-based automation.
+
+One of my key Laravel projects is **WooSentinel**, an AI-powered WooCommerce operations copilot SaaS. It includes multi-tenant store management, WooCommerce REST API sync, incident detection, ROI impact calculation, AI usage tracking, subscription planning, admin analytics, queue workers, scheduled jobs, and a Laravel-powered backend API connected to an Ionic Angular frontend.
+
+I also developed **HireDesk Laravel**, a free open-source Laravel job board starter built with Laravel 12 and AdminLTE 3.2.0. It is designed as a practical job portal foundation with admin dashboards, role-based users, employer/applicant workflow, job applications, application review, and email notification planning.
+
+My Laravel skill set includes:
+
+- 🏗️ **Laravel application architecture** with service-based backend structure
+- 🔌 **REST API development** for web, mobile, and SaaS applications
+- 🏢 **Multi-tenant SaaS architecture** with tenant-based data isolation
+- 🗄️ **MySQL database design**, migrations, relationships, indexing, and query optimization
+- 🔐 **Authentication and authorization** using Laravel Sanctum, session auth, middleware, policies, and role-based access control
+- 🖥️ **Admin dashboard development** using Blade, AdminLTE, Bootstrap, and custom UI components
+- ⚙️ **Queue jobs, scheduled commands, background sync**, and automation workflows
+- ✅ **Form requests, validation, policies, middleware**, and secure controller design
+- 🌐 **Third-party API integrations**, including WooCommerce REST API and payment/business APIs
+- 💳 **Billing, subscriptions, usage tracking**, and plan-based feature access
+- 📧 **Email notifications, logging, reporting**, and operational monitoring
+- 📱 **Frontend integration** with Ionic Angular, REST APIs, and responsive dashboard interfaces
+
+I focus on building Laravel applications that are not only functional, but also maintainable, secure, and easy to extend. My development approach keeps controllers clean, moves business logic into dedicated services, uses clear database relationships, and structures code so future features can be added without breaking existing workflows.
+
 
 ### WordPress & WooCommerce Development
 
