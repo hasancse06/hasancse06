@@ -90,7 +90,7 @@ I’ve worked on everything from small business websites to large-scale WooComme
 
 If you're looking for:
 - A **full-stack developer** who can build your web app from scratch
-- - A **Laravel Developer** who designs and develop SaaS architecture
+- A **Laravel Developer** who designs and develop SaaS architecture
 - A **WooCommerce expert** to take your WordPress site to the next level
 - A **mobile app developer** to build and publish your cross-platform Ionic app
 
