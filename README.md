@@ -233,7 +233,7 @@ Let's connect! I'm open to **freelance, contract, or collaboration** opportuniti
 Thanks for stopping by! ⭐  
 Feel free to explore my repos and drop a ⭐ if you find something useful.
 
-- **Laravel Architecture**  **Laravel Backend** **Laravel API** **SaaS** **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Authentication and Ticket Checkin System** , **RFID Based Cashless Wallet**
+- **Laravel Architect** , **Laravel Backend** , **Laravel API** , **SaaS** , **WordPress API Extension** , **WooCommerce API Extension and Override** , **QR Code Base Authentication and Ticket Checkin System** , **RFID Based Cashless Wallet**
 
 ---
 
