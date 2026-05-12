@@ -200,7 +200,7 @@ Currently focused on:
 
 ## About Me
 
-- 🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
+- 🔭 Senior Full-Stack Product Engineer | Laravel • Ionic Angular • WooCommerce • SaaS • REST APIs
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
 - 🧠 Creator of themes/plugins at [Envato](https://themeforest.net/user/hasanonline)
 - ✍️ Blogger at [blog.hasan.online](https://blog.hasan.online)
