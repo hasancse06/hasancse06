@@ -157,7 +157,7 @@ Worked on production-grade hybrid mobile applications used in real event managem
 
 ### Platforms
 
-Android • iOS • PWA
+Ionic Framework • Angular • Capacitor • Cordova • Custom REST APIs • WordPress • WooCommerce • Android • iOS • PWA
 
 ---
 
