@@ -75,6 +75,8 @@ My development approach focuses on clean architecture, scalability, maintainable
 - Ionic Framework
 - Angular
 - AngularJS
+- React.js
+- Vue.js
 - TypeScript
 - RxJS
 - JavaScript
@@ -238,7 +240,7 @@ Feel free to connect and discuss your project, platform, or product idea.
 
 ## Featured Skills & Tools
 
-`Laravel` .`Angular` · `TypeScript` · `Ionic` · `Capacitor` · `Cordova` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
+`Laravel` .`Angular` · `TypeScript` · `Ionic` · `Capacitor` · `Cordova` · `React.js` · `Vue.js` · `WordPress` · `WooCommerce` · `REST API` · `MySQL` · `MongoDB` · `Firebase` · `App Store / Play Store Deployment` · `Plugin Development` · `Stripe / PayPal Integration` · `eCommerce` · `Ticketing Platforms`
 
 ---
 
